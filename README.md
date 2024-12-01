@@ -1,3 +1,3 @@
-Integrantes
-Yolanda Gonzalez Herrera
-Yandry Lorena Vanegas Diaz|
+Integrantes<br>
+Yolanda Gonzalez Herrera<br>
+Yandry Lorena Vanegas Diaz<br>
