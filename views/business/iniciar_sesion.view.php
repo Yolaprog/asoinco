@@ -22,8 +22,8 @@
                 <input class="btn btn-success letra3" type="submit" value="Iniciar Sesión">
               </div>
               <br>
-              <!-- <div class="centrar"><a href="?c=Landing&a=olvido_contraseña" role="button" aria-pressed="true">¿Olvido su
-                  contraseña?</a></div> -->
+              <div class="centrar"><a href="?c=Landing&a=olvido_contraseña" role="button" aria-pressed="true">¿Olvido su
+                  contraseña?</a></div>
               <div><br></div>
 
             </form>
